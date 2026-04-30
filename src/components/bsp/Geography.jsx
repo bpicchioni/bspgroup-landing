@@ -8,7 +8,7 @@ export default function Geography() {
           Geography
         </p>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: "32px" }}>
-          {/* Amsterdam */}
+          {/* Europe — Amsterdam HQ */}
           <div style={{ paddingRight: "clamp(0px, 3vw, 48px)", borderRight: "1px solid #2A2A2A" }}>
             <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 600, fontSize: "11px", textTransform: "uppercase", letterSpacing: "0.20em", color: "#888888", marginBottom: "16px" }}>
               Europe
@@ -20,16 +20,16 @@ export default function Geography() {
               Headquarters. Brand strategy, EU compliance, market entry operations.
             </p>
           </div>
-          {/* Guangzhou */}
+          {/* Asia — China sourcing */}
           <div style={{ paddingLeft: "clamp(0px, 3vw, 48px)" }}>
             <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 600, fontSize: "11px", textTransform: "uppercase", letterSpacing: "0.20em", color: "#888888", marginBottom: "16px" }}>
               Asia
             </p>
             <h3 style={{ fontFamily: "Inter, sans-serif", fontWeight: 700, fontSize: "32px", color: "#FAFAFA", letterSpacing: "-0.02em", marginBottom: "12px", lineHeight: 1 }}>
-              Guangzhou
+              China
             </h3>
             <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 400, fontSize: "15px", color: "#888888", lineHeight: 1.6 }}>
-              Sourcing operations. Active supplier relationships across China, Vietnam, and Portugal.
+              Sourcing operations & manufacturing partners. Regular travel for trade fairs and supplier visits.
             </p>
           </div>
         </div>

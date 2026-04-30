@@ -11,10 +11,10 @@ export default function About() {
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: "32px" }}>
           <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 400, fontSize: "clamp(18px, 2vw, 22px)", color: "#FAFAFA", lineHeight: 1.5, letterSpacing: "-0.01em" }}>
-            BSP Group is a Netherlands-based brand development studio. We work alongside founders and emerging brands to navigate global sourcing, product development, and market entry — with a focus on design-led consumer categories across the EU.
+            BSP Group is a Netherlands-based brand development studio. We partner with founders to source, develop, and launch design-led consumer products into the European market.
           </p>
           <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 400, fontSize: "clamp(18px, 2vw, 22px)", color: "#FAFAFA", lineHeight: 1.5, letterSpacing: "-0.01em" }}>
-            Our team operates between Amsterdam and Asia, with active sourcing relationships across China, Vietnam, and Portugal.
+            Our work runs on a single axis — Europe ↔ China. Headquartered in Amsterdam, with manufacturing partners across mainland China.
           </p>
         </div>
       </div>

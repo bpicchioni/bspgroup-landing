@@ -113,7 +113,7 @@ export default function Hero() {
         }}
       >
         <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 600, fontSize: "11px", textTransform: "uppercase", letterSpacing: "0.24em", color: "#FAFAFA", margin: 0 }}>
-          Amsterdam · Guangzhou
+          Europe ↔ China
         </p>
       </motion.div>
 
